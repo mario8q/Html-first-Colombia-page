@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    background-color: rgb(92, 92, 92);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(92, 92, 92);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large
+}
+
+.parrafopasto{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.parrafopasto2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+.columnaizquierda {
+    width: 30%;
+    background-color: rgb(179, 178, 178);
+}
+
+.columnaderecha {
+    width: 70%;
+    background-color: gainsboro;
+}
